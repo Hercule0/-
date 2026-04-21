@@ -5,17 +5,17 @@
 
 تم تحويل الخطة إلى مخرجات تنفيذية جاهزة ضمن `docs/`:
 
-- `/home/runner/work/-/-/docs/01-product-scope.md`
-- `/home/runner/work/-/-/docs/02-architecture.md`
-- `/home/runner/work/-/-/docs/03-mvp-services.md`
-- `/home/runner/work/-/-/docs/04-data-integration.md`
-- `/home/runner/work/-/-/docs/05-ai-quality.md`
-- `/home/runner/work/-/-/docs/06-security-compliance.md`
-- `/home/runner/work/-/-/docs/07-ux.md`
-- `/home/runner/work/-/-/docs/08-devops.md`
-- `/home/runner/work/-/-/docs/09-testing-qa.md`
-- `/home/runner/work/-/-/docs/10-rollout.md`
-- `/home/runner/work/-/-/docs/11-governance.md`
-- `/home/runner/work/-/-/docs/12-post-mvp.md`
-- `/home/runner/work/-/-/docs/epics-user-stories.md`
-- `/home/runner/work/-/-/docs/kpis.md`
+- `docs/01-product-scope.md`
+- `docs/02-architecture.md`
+- `docs/03-mvp-services.md`
+- `docs/04-data-integration.md`
+- `docs/05-ai-quality.md`
+- `docs/06-security-compliance.md`
+- `docs/07-ux.md`
+- `docs/08-devops.md`
+- `docs/09-testing-qa.md`
+- `docs/10-rollout.md`
+- `docs/11-governance.md`
+- `docs/12-post-mvp.md`
+- `docs/epics-user-stories.md`
+- `docs/kpis.md`
